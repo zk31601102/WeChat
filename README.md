@@ -12,27 +12,27 @@
 
 <center>
 <img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/chatList.PNG" width="30%" height="30%" />
-chatList
+
 </center>
 
 #### 通讯录
 ##### 通讯录
 <center>
 <img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/contact1.PNG" width="30%" height="30%" />           <img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/contact2.PNG" width="30%" height="30%" />
-contacts
+
 </center>
 
 ##### 添加好友
 
 <center>
 <img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/addFriend.PNG" width="30%" height="30%" />
-addFriend
+
 </center>
 
 #### 发现
 <center>
 <img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/discover.PNG" width="30%" height="30%" />
-discover
+
 </center>
 
 #### 我
@@ -40,23 +40,22 @@ discover
 
 <center>
 <img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/me.PNG" width="30%" height="30%" />
-me
+
 </center>
 
 ##### 关于微信
 <center>
 <img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/aboutWeChat.PNG" width="30%" height="30%" />
-aboutWeChat
+
 </center>
 
 ### 图灵机器人聊天
 <center>
 <img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/Turing.PNG" width="30%" height="30%" />
-TuringChat
+
 </center>
 
 ### Main.Storyboard
 <center>
 <img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/storyboard.jpg" width="30%" height="30%" />
-StoryBoard
 </center>
