@@ -1,0 +1,1622 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 51;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		247C419D22908D6E003021A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24A2904C228F005200667B07 /* Main.storyboard */; };
+		247C419E22908D97003021A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24A2904F228F005300667B07 /* Assets.xcassets */; };
+		247C419F22908DB1003021A7 /* Contacts.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24A2907D228F257F00667B07 /* Contacts.xcassets */; };
+		247C41A022908DB1003021A7 /* jf-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A2907F228F257F00667B07 /* jf-1.jpg */; };
+		247C41A122908DB1003021A7 /* jf-3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29080228F257F00667B07 /* jf-3.jpg */; };
+		247C41A222908DB1003021A7 /* jf-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29081228F257F00667B07 /* jf-2.jpg */; };
+		247C41A322908DB1003021A7 /* yunmo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29082228F257F00667B07 /* yunmo.jpg */; };
+		247C41A422908DB1003021A7 /* jf-6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29083228F257F00667B07 /* jf-6.jpg */; };
+		247C41A522908DB1003021A7 /* jf-7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29084228F257F00667B07 /* jf-7.jpg */; };
+		247C41A622908DB1003021A7 /* fanguang-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29085228F257F00667B07 /* fanguang-1.jpg */; };
+		247C41A722908DB1003021A7 /* fanguang-3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29086228F257F00667B07 /* fanguang-3.jpg */; };
+		247C41A822908DB1003021A7 /* jf-5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29087228F257F00667B07 /* jf-5.jpg */; };
+		247C41A922908DB1003021A7 /* jf-4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29088228F257F00667B07 /* jf-4.jpg */; };
+		247C41AA22908DB1003021A7 /* fanguang-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29089228F257F00667B07 /* fanguang-2.jpg */; };
+		247C41AB22908DB1003021A7 /* laosiji.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A2908A228F257F00667B07 /* laosiji.jpg */; };
+		247C41AC22908DB1003021A7 /* miyan-4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A2908B228F257F00667B07 /* miyan-4.jpg */; };
+		247C41AD22908DB1003021A7 /* miyan-5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A2908C228F257F00667B07 /* miyan-5.jpg */; };
+		247C41AE22908DB1003021A7 /* hualaishi-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A2908D228F257F00667B07 /* hualaishi-1.jpg */; };
+		247C41AF22908DB1003021A7 /* miyan-6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A2908E228F257F00667B07 /* miyan-6.jpg */; };
+		247C41B022908DB1003021A7 /* hualaishi-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A2908F228F257F00667B07 /* hualaishi-2.jpg */; };
+		247C41B122908DB1003021A7 /* miyan-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29090228F257F00667B07 /* miyan-2.jpg */; };
+		247C41B222908DB1003021A7 /* miyan-3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29091228F257F00667B07 /* miyan-3.jpg */; };
+		247C41B322908DB1003021A7 /* miyan-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29092228F257F00667B07 /* miyan-1.jpg */; };
+		247C41B422908DB1003021A7 /* jingdizhiwa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29093228F257F00667B07 /* jingdizhiwa.jpg */; };
+		247C41B522908DB1003021A7 /* test4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29095228F257F00667B07 /* test4.jpg */; };
+		247C41B622908DB1003021A7 /* test0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29096228F257F00667B07 /* test0.jpg */; };
+		247C41B722908DB1003021A7 /* test1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29097228F257F00667B07 /* test1.jpg */; };
+		247C41B822908DB1003021A7 /* test3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29098228F257F00667B07 /* test3.jpg */; };
+		247C41B922908DB1003021A7 /* test2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A29099228F257F00667B07 /* test2.jpg */; };
+		247C41BA22908DB1003021A7 /* Me.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24A2909A228F257F00667B07 /* Me.xcassets */; };
+		247C41BB22908DB1003021A7 /* picon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A2909C228F257F00667B07 /* picon.jpg */; };
+		247C41BC22908DB1003021A7 /* pic8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A2909D228F257F00667B07 /* pic8.jpg */; };
+		247C41BD22908DB1003021A7 /* pic0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A2909E228F257F00667B07 /* pic0.jpg */; };
+		247C41BE22908DB1003021A7 /* pic1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A2909F228F257F00667B07 /* pic1.jpg */; };
+		247C41BF22908DB1003021A7 /* pic3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290A0228F257F00667B07 /* pic3.jpg */; };
+		247C41C022908DB1003021A7 /* pbg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290A1228F257F00667B07 /* pbg.jpg */; };
+		247C41C122908DB1003021A7 /* pic2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290A2228F257F00667B07 /* pic2.jpg */; };
+		247C41C222908DB1003021A7 /* pic6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290A3228F257F00667B07 /* pic6.jpg */; };
+		247C41C322908DB1003021A7 /* pic7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290A4228F257F00667B07 /* pic7.jpg */; };
+		247C41C422908DB1003021A7 /* pic5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290A5228F257F00667B07 /* pic5.jpg */; };
+		247C41C522908DB1003021A7 /* pic4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290A6228F257F00667B07 /* pic4.jpg */; };
+		247C41C622908DB1003021A7 /* Home.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24A290A7228F257F00667B07 /* Home.xcassets */; };
+		247C41C722908DB1003021A7 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290A9228F257F00667B07 /* 8.jpg */; };
+		247C41C822908DB1003021A7 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290AA228F257F00667B07 /* 9.jpg */; };
+		247C41C922908DB1003021A7 /* 14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290AB228F257F00667B07 /* 14.jpg */; };
+		247C41CA22908DB1003021A7 /* 28.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290AC228F257F00667B07 /* 28.jpg */; };
+		247C41CB22908DB1003021A7 /* 15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290AD228F257F00667B07 /* 15.jpg */; };
+		247C41CC22908DB1003021A7 /* 17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290AE228F257F00667B07 /* 17.jpg */; };
+		247C41CD22908DB1003021A7 /* 16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290AF228F257F00667B07 /* 16.jpg */; };
+		247C41CE22908DB1003021A7 /* 12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290B0228F257F00667B07 /* 12.jpg */; };
+		247C41CF22908DB1003021A7 /* 13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290B1228F257F00667B07 /* 13.jpg */; };
+		247C41D022908DB1003021A7 /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290B2228F257F00667B07 /* 11.jpg */; };
+		247C41D122908DB1003021A7 /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290B3228F257F00667B07 /* 10.jpg */; };
+		247C41D222908DB1003021A7 /* 21.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290B4228F257F00667B07 /* 21.jpg */; };
+		247C41D322908DB1003021A7 /* 20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290B5228F257F00667B07 /* 20.jpg */; };
+		247C41D422908DB1003021A7 /* 22.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290B6228F257F00667B07 /* 22.jpg */; };
+		247C41D522908DB1003021A7 /* 23.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290B7228F257F00667B07 /* 23.jpg */; };
+		247C41D622908DB1003021A7 /* 27.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290B8228F257F00667B07 /* 27.jpg */; };
+		247C41D722908DB1003021A7 /* 26.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290B9228F257F00667B07 /* 26.jpg */; };
+		247C41D822908DB1003021A7 /* 18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290BA228F257F00667B07 /* 18.jpg */; };
+		247C41D922908DB1003021A7 /* 24.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290BB228F257F00667B07 /* 24.jpg */; };
+		247C41DA22908DB1003021A7 /* 25.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290BC228F257F00667B07 /* 25.jpg */; };
+		247C41DB22908DB1003021A7 /* 19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290BD228F257F00667B07 /* 19.jpg */; };
+		247C41DC22908DB1003021A7 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290BE228F257F00667B07 /* 4.jpg */; };
+		247C41DD22908DB1003021A7 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290BF228F257F00667B07 /* 5.jpg */; };
+		247C41DE22908DB1003021A7 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290C0228F257F00667B07 /* 7.jpg */; };
+		247C41DF22908DB1003021A7 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290C1228F257F00667B07 /* 6.jpg */; };
+		247C41E022908DB1003021A7 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290C2228F257F00667B07 /* 2.jpg */; };
+		247C41E122908DB1003021A7 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290C3228F257F00667B07 /* 3.jpg */; };
+		247C41E222908DB1003021A7 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290C4228F257F00667B07 /* 1.jpg */; };
+		247C41E322908DB1003021A7 /* 0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24A290C5228F257F00667B07 /* 0.jpg */; };
+		247C41E422908DB1003021A7 /* Discover.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24A290C6228F257F00667B07 /* Discover.xcassets */; };
+		247C41E522908DB1003021A7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24A290C7228F257F00667B07 /* Images.xcassets */; };
+		247C41E622908DE0003021A7 /* contact_list.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4BE4990A228FD68A004C8DB2 /* contact_list.plist */; };
+		247C41E722908DE0003021A7 /* chat_list.plist in Resources */ = {isa = PBXBuildFile; fileRef = 24A29136228F3FF700667B07 /* chat_list.plist */; };
+		248C52492290630F0084DC96 /* Moment.m in Sources */ = {isa = PBXBuildFile; fileRef = 248C522E2290630F0084DC96 /* Moment.m */; };
+		248C524A2290630F0084DC96 /* Comment.m in Sources */ = {isa = PBXBuildFile; fileRef = 248C522F2290630F0084DC96 /* Comment.m */; };
+		248C533122906FE90084DC96 /* DiscoverViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 248C533022906FE90084DC96 /* DiscoverViewController.m */; };
+		248C53352290776A0084DC96 /* MeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 248C53342290776A0084DC96 /* MeViewController.m */; };
+		248C53392290783E0084DC96 /* MyInfoCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 248C53382290783E0084DC96 /* MyInfoCell.m */; };
+		24A29048228F005200667B07 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 24A29047228F005200667B07 /* AppDelegate.m */; };
+		24A2904B228F005200667B07 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24A2904A228F005200667B07 /* ViewController.m */; };
+		24A29056228F005300667B07 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 24A29055228F005300667B07 /* main.m */; };
+		24A29060228F005300667B07 /* TabBarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 24A2905F228F005300667B07 /* TabBarTests.m */; };
+		24A2906B228F005300667B07 /* TabBarUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 24A2906A228F005300667B07 /* TabBarUITests.m */; };
+		24A29115228F2F7E00667B07 /* ChatListCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 24A29114228F2F7E00667B07 /* ChatListCell.m */; };
+		24A2911A228F2FE000667B07 /* Chat.m in Sources */ = {isa = PBXBuildFile; fileRef = 24A29119228F2FE000667B07 /* Chat.m */; };
+		24A2913A228F41B700667B07 /* ChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24A29139228F41B700667B07 /* ChatViewController.m */; };
+		24A2913F228F564800667B07 /* ContactTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24A2913E228F564800667B07 /* ContactTableViewController.m */; };
+		4BE49912228FD8DB004C8DB2 /* Contact.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE49911228FD8DB004C8DB2 /* Contact.m */; };
+		4BE49915228FD907004C8DB2 /* ContactListCellTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE49914228FD907004C8DB2 /* ContactListCellTableViewCell.m */; };
+		4BE4991D22901640004C8DB2 /* NSArray+SortContact.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4991C22901640004C8DB2 /* NSArray+SortContact.m */; };
+		4BE4993722901987004C8DB2 /* NSString+PinYin4Cocoa.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4992C22901987004C8DB2 /* NSString+PinYin4Cocoa.m */; };
+		4BE4993822901987004C8DB2 /* PinyinHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4992F22901987004C8DB2 /* PinyinHelper.m */; };
+		4BE4993922901987004C8DB2 /* HanyuPinyinOutputFormat.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4993122901987004C8DB2 /* HanyuPinyinOutputFormat.m */; };
+		4BE4993A22901987004C8DB2 /* ChineseToPinyinResource.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4993222901987004C8DB2 /* ChineseToPinyinResource.m */; };
+		4BE4993B22901987004C8DB2 /* PinyinFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4993322901987004C8DB2 /* PinyinFormatter.m */; };
+		4BE4995022916DE3004C8DB2 /* ChatroomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4994022916DE3004C8DB2 /* ChatroomViewController.m */; };
+		4BE4995122916DE3004C8DB2 /* Messages+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4994522916DE3004C8DB2 /* Messages+CoreDataProperties.m */; };
+		4BE4995222916DE3004C8DB2 /* Messages.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4994622916DE3004C8DB2 /* Messages.m */; };
+		4BE4995322916DE3004C8DB2 /* EditorView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4BE4994922916DE3004C8DB2 /* EditorView.xib */; };
+		4BE4995422916DE3004C8DB2 /* BaseMessageTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4994A22916DE3004C8DB2 /* BaseMessageTableViewCell.m */; };
+		4BE4995522916DE3004C8DB2 /* EditorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4994B22916DE3004C8DB2 /* EditorView.m */; };
+		4BE4995622916DE3004C8DB2 /* TextMessageTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4994C22916DE3004C8DB2 /* TextMessageTableViewCell.m */; };
+		4BE4995922916E46004C8DB2 /* DateUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4995822916E46004C8DB2 /* DateUtil.m */; };
+		4BE4999D2291A4B7004C8DB2 /* IQDatabaseManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4999B2291A4B7004C8DB2 /* IQDatabaseManager.m */; };
+		4BE499A12291A4D0004C8DB2 /* WeChat.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4999E2291A4D0004C8DB2 /* WeChat.m */; };
+		4BE499A42291A4D8004C8DB2 /* WeChat.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4BE499A22291A4D8004C8DB2 /* WeChat.xcdatamodeld */; };
+		4BE499C42291AF23004C8DB2 /* InsetsTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE499C32291AF23004C8DB2 /* InsetsTextField.m */; };
+		4BE499D32291AFCE004C8DB2 /* JSONKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE499D12291AFCE004C8DB2 /* JSONKit.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		4BE499DC2291AFDC004C8DB2 /* CADebugMacros.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4BE499D62291AFDC004C8DB2 /* CADebugMacros.cpp */; };
+		4BE499DD2291AFDC004C8DB2 /* CAXException.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4BE499D72291AFDC004C8DB2 /* CAXException.cpp */; };
+		4BE499DE2291AFDC004C8DB2 /* CAStreamBasicDescription.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4BE499DA2291AFDC004C8DB2 /* CAStreamBasicDescription.cpp */; };
+		4BE499E22291B003004C8DB2 /* OpenUDID.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE499E02291B003004C8DB2 /* OpenUDID.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		4BE499F72291BA14004C8DB2 /* libz.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BE499F62291BA14004C8DB2 /* libz.1.dylib */; };
+		4BE499FD2291CA9B004C8DB2 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BE499FC2291CA9B004C8DB2 /* SystemConfiguration.framework */; };
+		4BE499FF2291CAB7004C8DB2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BE499FE2291CAB7004C8DB2 /* Foundation.framework */; };
+		4BE49A012291CAC2004C8DB2 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BE49A002291CAC2004C8DB2 /* AVFoundation.framework */; };
+		4BE49A032291CAC8004C8DB2 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BE49A022291CAC8004C8DB2 /* GLKit.framework */; };
+		4BE49A052291CACE004C8DB2 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BE49A042291CACE004C8DB2 /* OpenGLES.framework */; };
+		4BE49A072291CAD9004C8DB2 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BE49A062291CAD9004C8DB2 /* Security.framework */; };
+		4BE49A092291CADF004C8DB2 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BE49A082291CADF004C8DB2 /* CFNetwork.framework */; };
+		4BE49A0B2291CAE4004C8DB2 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BE49A0A2291CAE4004C8DB2 /* CoreLocation.framework */; };
+		4BE49A0C2291CB35004C8DB2 /* libTuringSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BE499F22291B8DE004C8DB2 /* libTuringSDK.a */; };
+		5E865EADA4363634A9C1EA45 /* libPods-WeChat-ZK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FDFA51A727022F029B5E202 /* libPods-WeChat-ZK.a */; };
+		C0B8F058DC843DBEF2E319AF /* libPods-WeChat-ZKUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6844462EDB4F6F5375E9126F /* libPods-WeChat-ZKUITests.a */; };
+		C58CCB09B0AFD863091A399E /* libPods-WeChat-ZKTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 44689CEF4E228AC7D81E1308 /* libPods-WeChat-ZKTests.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		24A2905C228F005300667B07 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 24A2903B228F005200667B07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 24A29042228F005200667B07;
+			remoteInfo = TabBar;
+		};
+		24A29067228F005300667B07 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 24A2903B228F005200667B07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 24A29042228F005200667B07;
+			remoteInfo = TabBar;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		171E84219ABE69EAC51F3708 /* Pods-WeChat-ZK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeChat-ZK.debug.xcconfig"; path = "Target Support Files/Pods-WeChat-ZK/Pods-WeChat-ZK.debug.xcconfig"; sourceTree = "<group>"; };
+		248C522D2290630F0084DC96 /* Comment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Comment.h; sourceTree = "<group>"; };
+		248C522E2290630F0084DC96 /* Moment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Moment.m; sourceTree = "<group>"; };
+		248C522F2290630F0084DC96 /* Comment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Comment.m; sourceTree = "<group>"; };
+		248C52302290630F0084DC96 /* Moment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Moment.h; sourceTree = "<group>"; };
+		248C532F22906FE90084DC96 /* DiscoverViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DiscoverViewController.h; sourceTree = "<group>"; };
+		248C533022906FE90084DC96 /* DiscoverViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DiscoverViewController.m; sourceTree = "<group>"; };
+		248C53332290776A0084DC96 /* MeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MeViewController.h; sourceTree = "<group>"; };
+		248C53342290776A0084DC96 /* MeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MeViewController.m; sourceTree = "<group>"; };
+		248C53372290783E0084DC96 /* MyInfoCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyInfoCell.h; sourceTree = "<group>"; };
+		248C53382290783E0084DC96 /* MyInfoCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyInfoCell.m; sourceTree = "<group>"; };
+		24A29043228F005200667B07 /* WeChat-ZK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WeChat-ZK.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		24A29046228F005200667B07 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		24A29047228F005200667B07 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		24A29049228F005200667B07 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		24A2904A228F005200667B07 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		24A2904D228F005200667B07 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		24A2904F228F005300667B07 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		24A29052228F005300667B07 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		24A29054228F005300667B07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24A29055228F005300667B07 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		24A2905B228F005300667B07 /* WeChat-ZKTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "WeChat-ZKTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		24A2905F228F005300667B07 /* TabBarTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TabBarTests.m; sourceTree = "<group>"; };
+		24A29061228F005300667B07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24A29066228F005300667B07 /* WeChat-ZKUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "WeChat-ZKUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		24A2906A228F005300667B07 /* TabBarUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TabBarUITests.m; sourceTree = "<group>"; };
+		24A2906C228F005300667B07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24A2907D228F257F00667B07 /* Contacts.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Contacts.xcassets; sourceTree = "<group>"; };
+		24A2907F228F257F00667B07 /* jf-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jf-1.jpg"; sourceTree = "<group>"; };
+		24A29080228F257F00667B07 /* jf-3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jf-3.jpg"; sourceTree = "<group>"; };
+		24A29081228F257F00667B07 /* jf-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jf-2.jpg"; sourceTree = "<group>"; };
+		24A29082228F257F00667B07 /* yunmo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yunmo.jpg; sourceTree = "<group>"; };
+		24A29083228F257F00667B07 /* jf-6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jf-6.jpg"; sourceTree = "<group>"; };
+		24A29084228F257F00667B07 /* jf-7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jf-7.jpg"; sourceTree = "<group>"; };
+		24A29085228F257F00667B07 /* fanguang-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "fanguang-1.jpg"; sourceTree = "<group>"; };
+		24A29086228F257F00667B07 /* fanguang-3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "fanguang-3.jpg"; sourceTree = "<group>"; };
+		24A29087228F257F00667B07 /* jf-5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jf-5.jpg"; sourceTree = "<group>"; };
+		24A29088228F257F00667B07 /* jf-4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jf-4.jpg"; sourceTree = "<group>"; };
+		24A29089228F257F00667B07 /* fanguang-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "fanguang-2.jpg"; sourceTree = "<group>"; };
+		24A2908A228F257F00667B07 /* laosiji.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = laosiji.jpg; sourceTree = "<group>"; };
+		24A2908B228F257F00667B07 /* miyan-4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "miyan-4.jpg"; sourceTree = "<group>"; };
+		24A2908C228F257F00667B07 /* miyan-5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "miyan-5.jpg"; sourceTree = "<group>"; };
+		24A2908D228F257F00667B07 /* hualaishi-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "hualaishi-1.jpg"; sourceTree = "<group>"; };
+		24A2908E228F257F00667B07 /* miyan-6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "miyan-6.jpg"; sourceTree = "<group>"; };
+		24A2908F228F257F00667B07 /* hualaishi-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "hualaishi-2.jpg"; sourceTree = "<group>"; };
+		24A29090228F257F00667B07 /* miyan-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "miyan-2.jpg"; sourceTree = "<group>"; };
+		24A29091228F257F00667B07 /* miyan-3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "miyan-3.jpg"; sourceTree = "<group>"; };
+		24A29092228F257F00667B07 /* miyan-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "miyan-1.jpg"; sourceTree = "<group>"; };
+		24A29093228F257F00667B07 /* jingdizhiwa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jingdizhiwa.jpg; sourceTree = "<group>"; };
+		24A29095228F257F00667B07 /* test4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test4.jpg; sourceTree = "<group>"; };
+		24A29096228F257F00667B07 /* test0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test0.jpg; sourceTree = "<group>"; };
+		24A29097228F257F00667B07 /* test1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test1.jpg; sourceTree = "<group>"; };
+		24A29098228F257F00667B07 /* test3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test3.jpg; sourceTree = "<group>"; };
+		24A29099228F257F00667B07 /* test2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test2.jpg; sourceTree = "<group>"; };
+		24A2909A228F257F00667B07 /* Me.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Me.xcassets; sourceTree = "<group>"; };
+		24A2909C228F257F00667B07 /* picon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = picon.jpg; sourceTree = "<group>"; };
+		24A2909D228F257F00667B07 /* pic8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic8.jpg; sourceTree = "<group>"; };
+		24A2909E228F257F00667B07 /* pic0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic0.jpg; sourceTree = "<group>"; };
+		24A2909F228F257F00667B07 /* pic1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic1.jpg; sourceTree = "<group>"; };
+		24A290A0228F257F00667B07 /* pic3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic3.jpg; sourceTree = "<group>"; };
+		24A290A1228F257F00667B07 /* pbg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pbg.jpg; sourceTree = "<group>"; };
+		24A290A2228F257F00667B07 /* pic2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic2.jpg; sourceTree = "<group>"; };
+		24A290A3228F257F00667B07 /* pic6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic6.jpg; sourceTree = "<group>"; };
+		24A290A4228F257F00667B07 /* pic7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic7.jpg; sourceTree = "<group>"; };
+		24A290A5228F257F00667B07 /* pic5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic5.jpg; sourceTree = "<group>"; };
+		24A290A6228F257F00667B07 /* pic4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic4.jpg; sourceTree = "<group>"; };
+		24A290A7228F257F00667B07 /* Home.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Home.xcassets; sourceTree = "<group>"; };
+		24A290A9228F257F00667B07 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		24A290AA228F257F00667B07 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		24A290AB228F257F00667B07 /* 14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 14.jpg; sourceTree = "<group>"; };
+		24A290AC228F257F00667B07 /* 28.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 28.jpg; sourceTree = "<group>"; };
+		24A290AD228F257F00667B07 /* 15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 15.jpg; sourceTree = "<group>"; };
+		24A290AE228F257F00667B07 /* 17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 17.jpg; sourceTree = "<group>"; };
+		24A290AF228F257F00667B07 /* 16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 16.jpg; sourceTree = "<group>"; };
+		24A290B0228F257F00667B07 /* 12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 12.jpg; sourceTree = "<group>"; };
+		24A290B1228F257F00667B07 /* 13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 13.jpg; sourceTree = "<group>"; };
+		24A290B2228F257F00667B07 /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpg; sourceTree = "<group>"; };
+		24A290B3228F257F00667B07 /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		24A290B4228F257F00667B07 /* 21.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 21.jpg; sourceTree = "<group>"; };
+		24A290B5228F257F00667B07 /* 20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20.jpg; sourceTree = "<group>"; };
+		24A290B6228F257F00667B07 /* 22.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 22.jpg; sourceTree = "<group>"; };
+		24A290B7228F257F00667B07 /* 23.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 23.jpg; sourceTree = "<group>"; };
+		24A290B8228F257F00667B07 /* 27.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 27.jpg; sourceTree = "<group>"; };
+		24A290B9228F257F00667B07 /* 26.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 26.jpg; sourceTree = "<group>"; };
+		24A290BA228F257F00667B07 /* 18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 18.jpg; sourceTree = "<group>"; };
+		24A290BB228F257F00667B07 /* 24.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 24.jpg; sourceTree = "<group>"; };
+		24A290BC228F257F00667B07 /* 25.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 25.jpg; sourceTree = "<group>"; };
+		24A290BD228F257F00667B07 /* 19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 19.jpg; sourceTree = "<group>"; };
+		24A290BE228F257F00667B07 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		24A290BF228F257F00667B07 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		24A290C0228F257F00667B07 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		24A290C1228F257F00667B07 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		24A290C2228F257F00667B07 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		24A290C3228F257F00667B07 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		24A290C4228F257F00667B07 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		24A290C5228F257F00667B07 /* 0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpg; sourceTree = "<group>"; };
+		24A290C6228F257F00667B07 /* Discover.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Discover.xcassets; sourceTree = "<group>"; };
+		24A290C7228F257F00667B07 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		24A29113228F2F7E00667B07 /* ChatListCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChatListCell.h; sourceTree = "<group>"; };
+		24A29114228F2F7E00667B07 /* ChatListCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChatListCell.m; sourceTree = "<group>"; };
+		24A29118228F2FE000667B07 /* Chat.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Chat.h; sourceTree = "<group>"; };
+		24A29119228F2FE000667B07 /* Chat.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Chat.m; sourceTree = "<group>"; };
+		24A29136228F3FF700667B07 /* chat_list.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chat_list.plist; sourceTree = "<group>"; };
+		24A29138228F41B700667B07 /* ChatViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChatViewController.h; sourceTree = "<group>"; };
+		24A29139228F41B700667B07 /* ChatViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChatViewController.m; sourceTree = "<group>"; };
+		24A2913D228F564800667B07 /* ContactTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ContactTableViewController.h; sourceTree = "<group>"; };
+		24A2913E228F564800667B07 /* ContactTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ContactTableViewController.m; sourceTree = "<group>"; };
+		2FBD42BAE98A185C1AC9A594 /* Pods-WeChat-ZK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeChat-ZK.release.xcconfig"; path = "Target Support Files/Pods-WeChat-ZK/Pods-WeChat-ZK.release.xcconfig"; sourceTree = "<group>"; };
+		44689CEF4E228AC7D81E1308 /* libPods-WeChat-ZKTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeChat-ZKTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4BE4990A228FD68A004C8DB2 /* contact_list.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = contact_list.plist; sourceTree = "<group>"; };
+		4BE49910228FD8DB004C8DB2 /* Contact.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Contact.h; sourceTree = "<group>"; };
+		4BE49911228FD8DB004C8DB2 /* Contact.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Contact.m; sourceTree = "<group>"; };
+		4BE49913228FD907004C8DB2 /* ContactListCellTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ContactListCellTableViewCell.h; sourceTree = "<group>"; };
+		4BE49914228FD907004C8DB2 /* ContactListCellTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ContactListCellTableViewCell.m; sourceTree = "<group>"; };
+		4BE4991B22901640004C8DB2 /* NSArray+SortContact.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSArray+SortContact.h"; sourceTree = "<group>"; };
+		4BE4991C22901640004C8DB2 /* NSArray+SortContact.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSArray+SortContact.m"; sourceTree = "<group>"; };
+		4BE4992A22901987004C8DB2 /* PinyinHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PinyinHelper.h; sourceTree = "<group>"; };
+		4BE4992B22901987004C8DB2 /* HanyuPinyinOutputFormat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HanyuPinyinOutputFormat.h; sourceTree = "<group>"; };
+		4BE4992C22901987004C8DB2 /* NSString+PinYin4Cocoa.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+PinYin4Cocoa.m"; sourceTree = "<group>"; };
+		4BE4992D22901987004C8DB2 /* ChineseToPinyinResource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChineseToPinyinResource.h; sourceTree = "<group>"; };
+		4BE4992E22901987004C8DB2 /* PinyinFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PinyinFormatter.h; sourceTree = "<group>"; };
+		4BE4992F22901987004C8DB2 /* PinyinHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PinyinHelper.m; sourceTree = "<group>"; };
+		4BE4993022901987004C8DB2 /* NSString+PinYin4Cocoa.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+PinYin4Cocoa.h"; sourceTree = "<group>"; };
+		4BE4993122901987004C8DB2 /* HanyuPinyinOutputFormat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HanyuPinyinOutputFormat.m; sourceTree = "<group>"; };
+		4BE4993222901987004C8DB2 /* ChineseToPinyinResource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChineseToPinyinResource.m; sourceTree = "<group>"; };
+		4BE4993322901987004C8DB2 /* PinyinFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PinyinFormatter.m; sourceTree = "<group>"; };
+		4BE4993422901987004C8DB2 /* PinYin4Objc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PinYin4Objc.h; sourceTree = "<group>"; };
+		4BE4993622901987004C8DB2 /* unicode_to_hanyu_pinyin.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = unicode_to_hanyu_pinyin.txt; sourceTree = "<group>"; };
+		4BE4993E22916DE3004C8DB2 /* ChatroomViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChatroomViewController.h; sourceTree = "<group>"; };
+		4BE4994022916DE3004C8DB2 /* ChatroomViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChatroomViewController.m; sourceTree = "<group>"; };
+		4BE4994322916DE3004C8DB2 /* Messages+CoreDataProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Messages+CoreDataProperties.h"; sourceTree = "<group>"; };
+		4BE4994422916DE3004C8DB2 /* Messages.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Messages.h; sourceTree = "<group>"; };
+		4BE4994522916DE3004C8DB2 /* Messages+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Messages+CoreDataProperties.m"; sourceTree = "<group>"; };
+		4BE4994622916DE3004C8DB2 /* Messages.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Messages.m; sourceTree = "<group>"; };
+		4BE4994822916DE3004C8DB2 /* TextMessageTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextMessageTableViewCell.h; sourceTree = "<group>"; };
+		4BE4994922916DE3004C8DB2 /* EditorView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EditorView.xib; sourceTree = "<group>"; };
+		4BE4994A22916DE3004C8DB2 /* BaseMessageTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseMessageTableViewCell.m; sourceTree = "<group>"; };
+		4BE4994B22916DE3004C8DB2 /* EditorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EditorView.m; sourceTree = "<group>"; };
+		4BE4994C22916DE3004C8DB2 /* TextMessageTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextMessageTableViewCell.m; sourceTree = "<group>"; };
+		4BE4994D22916DE3004C8DB2 /* BaseMessageTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseMessageTableViewCell.h; sourceTree = "<group>"; };
+		4BE4994E22916DE3004C8DB2 /* EditorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EditorView.h; sourceTree = "<group>"; };
+		4BE4995722916E46004C8DB2 /* DateUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DateUtil.h; sourceTree = "<group>"; };
+		4BE4995822916E46004C8DB2 /* DateUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DateUtil.m; sourceTree = "<group>"; };
+		4BE4999A2291A4B7004C8DB2 /* IQDatabaseManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IQDatabaseManager.h; sourceTree = "<group>"; };
+		4BE4999B2291A4B7004C8DB2 /* IQDatabaseManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IQDatabaseManager.m; sourceTree = "<group>"; };
+		4BE4999C2291A4B7004C8DB2 /* IQDatabaseManagerSubclass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IQDatabaseManagerSubclass.h; sourceTree = "<group>"; };
+		4BE4999E2291A4D0004C8DB2 /* WeChat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeChat.m; sourceTree = "<group>"; };
+		4BE4999F2291A4D0004C8DB2 /* WechatConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WechatConstants.h; sourceTree = "<group>"; };
+		4BE499A02291A4D0004C8DB2 /* WeChat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeChat.h; sourceTree = "<group>"; };
+		4BE499A32291A4D8004C8DB2 /* WeChat.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = WeChat.xcdatamodel; sourceTree = "<group>"; };
+		4BE499C22291AF23004C8DB2 /* InsetsTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InsetsTextField.h; sourceTree = "<group>"; };
+		4BE499C32291AF23004C8DB2 /* InsetsTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InsetsTextField.m; sourceTree = "<group>"; };
+		4BE499CA2291AFB3004C8DB2 /* BDVoiceRecognitionClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BDVoiceRecognitionClient.h; sourceTree = "<group>"; };
+		4BE499CB2291AFB3004C8DB2 /* TRRTuringAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TRRTuringAPI.h; sourceTree = "<group>"; };
+		4BE499CC2291AFB3004C8DB2 /* TRRTuringAPIConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TRRTuringAPIConfig.h; sourceTree = "<group>"; };
+		4BE499CD2291AFB3004C8DB2 /* TRRVoiceRecognitionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TRRVoiceRecognitionManager.h; sourceTree = "<group>"; };
+		4BE499CE2291AFB3004C8DB2 /* TRRSpeechSythesizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TRRSpeechSythesizer.h; sourceTree = "<group>"; };
+		4BE499CF2291AFB3004C8DB2 /* TRRTuringRequestManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TRRTuringRequestManager.h; sourceTree = "<group>"; };
+		4BE499D12291AFCE004C8DB2 /* JSONKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONKit.m; sourceTree = "<group>"; };
+		4BE499D22291AFCE004C8DB2 /* JSONKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONKit.h; sourceTree = "<group>"; };
+		4BE499D52291AFDC004C8DB2 /* CAStreamBasicDescription.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAStreamBasicDescription.h; sourceTree = "<group>"; };
+		4BE499D62291AFDC004C8DB2 /* CADebugMacros.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CADebugMacros.cpp; sourceTree = "<group>"; };
+		4BE499D72291AFDC004C8DB2 /* CAXException.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CAXException.cpp; sourceTree = "<group>"; };
+		4BE499D82291AFDC004C8DB2 /* CAXException.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAXException.h; sourceTree = "<group>"; };
+		4BE499D92291AFDC004C8DB2 /* CADebugMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CADebugMacros.h; sourceTree = "<group>"; };
+		4BE499DA2291AFDC004C8DB2 /* CAStreamBasicDescription.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CAStreamBasicDescription.cpp; sourceTree = "<group>"; };
+		4BE499DB2291AFDC004C8DB2 /* CAMath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAMath.h; sourceTree = "<group>"; };
+		4BE499E02291B003004C8DB2 /* OpenUDID.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OpenUDID.m; sourceTree = "<group>"; };
+		4BE499E12291B003004C8DB2 /* OpenUDID.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpenUDID.h; sourceTree = "<group>"; };
+		4BE499F22291B8DE004C8DB2 /* libTuringSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libTuringSDK.a; sourceTree = "<group>"; };
+		4BE499F62291BA14004C8DB2 /* libz.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.1.dylib; path = ../../../../../usr/lib/libz.1.dylib; sourceTree = "<group>"; };
+		4BE499FC2291CA9B004C8DB2 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		4BE499FE2291CAB7004C8DB2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		4BE49A002291CAC2004C8DB2 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		4BE49A022291CAC8004C8DB2 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
+		4BE49A042291CACE004C8DB2 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		4BE49A062291CAD9004C8DB2 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		4BE49A082291CADF004C8DB2 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		4BE49A0A2291CAE4004C8DB2 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		515A249D82EF9A9BD3172A95 /* Pods-WeChat-ZKTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeChat-ZKTests.release.xcconfig"; path = "Target Support Files/Pods-WeChat-ZKTests/Pods-WeChat-ZKTests.release.xcconfig"; sourceTree = "<group>"; };
+		6844462EDB4F6F5375E9126F /* libPods-WeChat-ZKUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeChat-ZKUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		735535764BC4E0607673CEBD /* Pods-WeChat-ZKUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeChat-ZKUITests.release.xcconfig"; path = "Target Support Files/Pods-WeChat-ZKUITests/Pods-WeChat-ZKUITests.release.xcconfig"; sourceTree = "<group>"; };
+		95A5D5ECACB59EA69FB2ED76 /* Pods-WeChat-ZKUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeChat-ZKUITests.debug.xcconfig"; path = "Target Support Files/Pods-WeChat-ZKUITests/Pods-WeChat-ZKUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		9FDFA51A727022F029B5E202 /* libPods-WeChat-ZK.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeChat-ZK.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA7133E5591904D1DAD838A5 /* Pods-WeChat-ZKTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeChat-ZKTests.debug.xcconfig"; path = "Target Support Files/Pods-WeChat-ZKTests/Pods-WeChat-ZKTests.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		24A29040228F005200667B07 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4BE49A0C2291CB35004C8DB2 /* libTuringSDK.a in Frameworks */,
+				4BE49A0B2291CAE4004C8DB2 /* CoreLocation.framework in Frameworks */,
+				4BE49A092291CADF004C8DB2 /* CFNetwork.framework in Frameworks */,
+				4BE49A072291CAD9004C8DB2 /* Security.framework in Frameworks */,
+				4BE49A052291CACE004C8DB2 /* OpenGLES.framework in Frameworks */,
+				4BE49A032291CAC8004C8DB2 /* GLKit.framework in Frameworks */,
+				4BE49A012291CAC2004C8DB2 /* AVFoundation.framework in Frameworks */,
+				4BE499FF2291CAB7004C8DB2 /* Foundation.framework in Frameworks */,
+				4BE499FD2291CA9B004C8DB2 /* SystemConfiguration.framework in Frameworks */,
+				4BE499F72291BA14004C8DB2 /* libz.1.dylib in Frameworks */,
+				5E865EADA4363634A9C1EA45 /* libPods-WeChat-ZK.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A29058228F005300667B07 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C58CCB09B0AFD863091A399E /* libPods-WeChat-ZKTests.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A29063228F005300667B07 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C0B8F058DC843DBEF2E319AF /* libPods-WeChat-ZKUITests.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		248C52252290630F0084DC96 /* discover */ = {
+			isa = PBXGroup;
+			children = (
+				248C52272290630F0084DC96 /* Controller */,
+				248C522C2290630F0084DC96 /* Model */,
+				248C52312290630F0084DC96 /* View */,
+			);
+			path = discover;
+			sourceTree = "<group>";
+		};
+		248C52272290630F0084DC96 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		248C522C2290630F0084DC96 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				248C522D2290630F0084DC96 /* Comment.h */,
+				248C522E2290630F0084DC96 /* Moment.m */,
+				248C522F2290630F0084DC96 /* Comment.m */,
+				248C52302290630F0084DC96 /* Moment.h */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		248C52312290630F0084DC96 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				248C532F22906FE90084DC96 /* DiscoverViewController.h */,
+				248C533022906FE90084DC96 /* DiscoverViewController.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		248C52FA229068570084DC96 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		248C5332229077540084DC96 /* me */ = {
+			isa = PBXGroup;
+			children = (
+				248C53362290780F0084DC96 /* Model */,
+				248C53332290776A0084DC96 /* MeViewController.h */,
+				248C53342290776A0084DC96 /* MeViewController.m */,
+			);
+			path = me;
+			sourceTree = "<group>";
+		};
+		248C53362290780F0084DC96 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				248C53372290783E0084DC96 /* MyInfoCell.h */,
+				248C53382290783E0084DC96 /* MyInfoCell.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		24A2903A228F005200667B07 = {
+			isa = PBXGroup;
+			children = (
+				24A29045228F005200667B07 /* TabBar */,
+				24A2905E228F005300667B07 /* TabBarTests */,
+				24A29069228F005300667B07 /* TabBarUITests */,
+				24A29044228F005200667B07 /* Products */,
+				3A7265390C8E0F9276684F5C /* Pods */,
+				F2F190A07EBD0C93BF80100B /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		24A29044228F005200667B07 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				24A29043228F005200667B07 /* WeChat-ZK.app */,
+				24A2905B228F005300667B07 /* WeChat-ZKTests.xctest */,
+				24A29066228F005300667B07 /* WeChat-ZKUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		24A29045228F005200667B07 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				248C5332229077540084DC96 /* me */,
+				248C52FA229068570084DC96 /* Utils */,
+				248C52252290630F0084DC96 /* discover */,
+				24A2913C228F55EB00667B07 /* contacts */,
+				24A2911B228F310500667B07 /* supportUtils */,
+				24A2910F228F2EA800667B07 /* chat */,
+				24A29046228F005200667B07 /* AppDelegate.h */,
+				24A29047228F005200667B07 /* AppDelegate.m */,
+				24A29049228F005200667B07 /* ViewController.h */,
+				24A2904A228F005200667B07 /* ViewController.m */,
+				24A2904C228F005200667B07 /* Main.storyboard */,
+				24A2904F228F005300667B07 /* Assets.xcassets */,
+				24A2907C228F257F00667B07 /* Images */,
+				24A29051228F005300667B07 /* LaunchScreen.storyboard */,
+				24A29054228F005300667B07 /* Info.plist */,
+				24A29055228F005300667B07 /* main.m */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		24A2905E228F005300667B07 /* TabBarTests */ = {
+			isa = PBXGroup;
+			children = (
+				24A2905F228F005300667B07 /* TabBarTests.m */,
+				24A29061228F005300667B07 /* Info.plist */,
+			);
+			path = TabBarTests;
+			sourceTree = "<group>";
+		};
+		24A29069228F005300667B07 /* TabBarUITests */ = {
+			isa = PBXGroup;
+			children = (
+				24A2906A228F005300667B07 /* TabBarUITests.m */,
+				24A2906C228F005300667B07 /* Info.plist */,
+			);
+			path = TabBarUITests;
+			sourceTree = "<group>";
+		};
+		24A2907C228F257F00667B07 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				24A2907D228F257F00667B07 /* Contacts.xcassets */,
+				24A2907E228F257F00667B07 /* moments */,
+				24A29094228F257F00667B07 /* test */,
+				24A2909A228F257F00667B07 /* Me.xcassets */,
+				24A2909B228F257F00667B07 /* TimeLineImages */,
+				24A290A7228F257F00667B07 /* Home.xcassets */,
+				24A290A8228F257F00667B07 /* cell_icons */,
+				24A290C6228F257F00667B07 /* Discover.xcassets */,
+				24A290C7228F257F00667B07 /* Images.xcassets */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		24A2907E228F257F00667B07 /* moments */ = {
+			isa = PBXGroup;
+			children = (
+				24A2907F228F257F00667B07 /* jf-1.jpg */,
+				24A29080228F257F00667B07 /* jf-3.jpg */,
+				24A29081228F257F00667B07 /* jf-2.jpg */,
+				24A29082228F257F00667B07 /* yunmo.jpg */,
+				24A29083228F257F00667B07 /* jf-6.jpg */,
+				24A29084228F257F00667B07 /* jf-7.jpg */,
+				24A29085228F257F00667B07 /* fanguang-1.jpg */,
+				24A29086228F257F00667B07 /* fanguang-3.jpg */,
+				24A29087228F257F00667B07 /* jf-5.jpg */,
+				24A29088228F257F00667B07 /* jf-4.jpg */,
+				24A29089228F257F00667B07 /* fanguang-2.jpg */,
+				24A2908A228F257F00667B07 /* laosiji.jpg */,
+				24A2908B228F257F00667B07 /* miyan-4.jpg */,
+				24A2908C228F257F00667B07 /* miyan-5.jpg */,
+				24A2908D228F257F00667B07 /* hualaishi-1.jpg */,
+				24A2908E228F257F00667B07 /* miyan-6.jpg */,
+				24A2908F228F257F00667B07 /* hualaishi-2.jpg */,
+				24A29090228F257F00667B07 /* miyan-2.jpg */,
+				24A29091228F257F00667B07 /* miyan-3.jpg */,
+				24A29092228F257F00667B07 /* miyan-1.jpg */,
+				24A29093228F257F00667B07 /* jingdizhiwa.jpg */,
+			);
+			path = moments;
+			sourceTree = "<group>";
+		};
+		24A29094228F257F00667B07 /* test */ = {
+			isa = PBXGroup;
+			children = (
+				24A29095228F257F00667B07 /* test4.jpg */,
+				24A29096228F257F00667B07 /* test0.jpg */,
+				24A29097228F257F00667B07 /* test1.jpg */,
+				24A29098228F257F00667B07 /* test3.jpg */,
+				24A29099228F257F00667B07 /* test2.jpg */,
+			);
+			path = test;
+			sourceTree = "<group>";
+		};
+		24A2909B228F257F00667B07 /* TimeLineImages */ = {
+			isa = PBXGroup;
+			children = (
+				24A2909C228F257F00667B07 /* picon.jpg */,
+				24A2909D228F257F00667B07 /* pic8.jpg */,
+				24A2909E228F257F00667B07 /* pic0.jpg */,
+				24A2909F228F257F00667B07 /* pic1.jpg */,
+				24A290A0228F257F00667B07 /* pic3.jpg */,
+				24A290A1228F257F00667B07 /* pbg.jpg */,
+				24A290A2228F257F00667B07 /* pic2.jpg */,
+				24A290A3228F257F00667B07 /* pic6.jpg */,
+				24A290A4228F257F00667B07 /* pic7.jpg */,
+				24A290A5228F257F00667B07 /* pic5.jpg */,
+				24A290A6228F257F00667B07 /* pic4.jpg */,
+			);
+			path = TimeLineImages;
+			sourceTree = "<group>";
+		};
+		24A290A8228F257F00667B07 /* cell_icons */ = {
+			isa = PBXGroup;
+			children = (
+				24A290A9228F257F00667B07 /* 8.jpg */,
+				24A290AA228F257F00667B07 /* 9.jpg */,
+				24A290AB228F257F00667B07 /* 14.jpg */,
+				24A290AC228F257F00667B07 /* 28.jpg */,
+				24A290AD228F257F00667B07 /* 15.jpg */,
+				24A290AE228F257F00667B07 /* 17.jpg */,
+				24A290AF228F257F00667B07 /* 16.jpg */,
+				24A290B0228F257F00667B07 /* 12.jpg */,
+				24A290B1228F257F00667B07 /* 13.jpg */,
+				24A290B2228F257F00667B07 /* 11.jpg */,
+				24A290B3228F257F00667B07 /* 10.jpg */,
+				24A290B4228F257F00667B07 /* 21.jpg */,
+				24A290B5228F257F00667B07 /* 20.jpg */,
+				24A290B6228F257F00667B07 /* 22.jpg */,
+				24A290B7228F257F00667B07 /* 23.jpg */,
+				24A290B8228F257F00667B07 /* 27.jpg */,
+				24A290B9228F257F00667B07 /* 26.jpg */,
+				24A290BA228F257F00667B07 /* 18.jpg */,
+				24A290BB228F257F00667B07 /* 24.jpg */,
+				24A290BC228F257F00667B07 /* 25.jpg */,
+				24A290BD228F257F00667B07 /* 19.jpg */,
+				24A290BE228F257F00667B07 /* 4.jpg */,
+				24A290BF228F257F00667B07 /* 5.jpg */,
+				24A290C0228F257F00667B07 /* 7.jpg */,
+				24A290C1228F257F00667B07 /* 6.jpg */,
+				24A290C2228F257F00667B07 /* 2.jpg */,
+				24A290C3228F257F00667B07 /* 3.jpg */,
+				24A290C4228F257F00667B07 /* 1.jpg */,
+				24A290C5228F257F00667B07 /* 0.jpg */,
+			);
+			path = cell_icons;
+			sourceTree = "<group>";
+		};
+		24A2910F228F2EA800667B07 /* chat */ = {
+			isa = PBXGroup;
+			children = (
+				4BE499972291A450004C8DB2 /* DataBase */,
+				24A29112228F2F0000667B07 /* personalChat */,
+				24A29110228F2EEA00667B07 /* chatList */,
+				24A29136228F3FF700667B07 /* chat_list.plist */,
+				24A29138228F41B700667B07 /* ChatViewController.h */,
+				24A29139228F41B700667B07 /* ChatViewController.m */,
+			);
+			path = chat;
+			sourceTree = "<group>";
+		};
+		24A29110228F2EEA00667B07 /* chatList */ = {
+			isa = PBXGroup;
+			children = (
+				24A29113228F2F7E00667B07 /* ChatListCell.h */,
+				24A29114228F2F7E00667B07 /* ChatListCell.m */,
+				24A29118228F2FE000667B07 /* Chat.h */,
+				24A29119228F2FE000667B07 /* Chat.m */,
+			);
+			path = chatList;
+			sourceTree = "<group>";
+		};
+		24A29112228F2F0000667B07 /* personalChat */ = {
+			isa = PBXGroup;
+			children = (
+				4BE4993D22916DE3004C8DB2 /* Controller */,
+				4BE4994222916DE3004C8DB2 /* Model */,
+				4BE4994722916DE3004C8DB2 /* View */,
+			);
+			path = personalChat;
+			sourceTree = "<group>";
+		};
+		24A2911B228F310500667B07 /* supportUtils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = supportUtils;
+			sourceTree = "<group>";
+		};
+		24A2913C228F55EB00667B07 /* contacts */ = {
+			isa = PBXGroup;
+			children = (
+				4BE4992822901987004C8DB2 /* PinYin4Objc */,
+				4BE4990C228FD89F004C8DB2 /* contactList */,
+				24A2913D228F564800667B07 /* ContactTableViewController.h */,
+				4BE4990A228FD68A004C8DB2 /* contact_list.plist */,
+				24A2913E228F564800667B07 /* ContactTableViewController.m */,
+				4BE4991B22901640004C8DB2 /* NSArray+SortContact.h */,
+				4BE4991C22901640004C8DB2 /* NSArray+SortContact.m */,
+			);
+			path = contacts;
+			sourceTree = "<group>";
+		};
+		3A7265390C8E0F9276684F5C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				171E84219ABE69EAC51F3708 /* Pods-WeChat-ZK.debug.xcconfig */,
+				2FBD42BAE98A185C1AC9A594 /* Pods-WeChat-ZK.release.xcconfig */,
+				BA7133E5591904D1DAD838A5 /* Pods-WeChat-ZKTests.debug.xcconfig */,
+				515A249D82EF9A9BD3172A95 /* Pods-WeChat-ZKTests.release.xcconfig */,
+				95A5D5ECACB59EA69FB2ED76 /* Pods-WeChat-ZKUITests.debug.xcconfig */,
+				735535764BC4E0607673CEBD /* Pods-WeChat-ZKUITests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		4BE4990C228FD89F004C8DB2 /* contactList */ = {
+			isa = PBXGroup;
+			children = (
+				4BE49910228FD8DB004C8DB2 /* Contact.h */,
+				4BE49911228FD8DB004C8DB2 /* Contact.m */,
+				4BE49913228FD907004C8DB2 /* ContactListCellTableViewCell.h */,
+				4BE49914228FD907004C8DB2 /* ContactListCellTableViewCell.m */,
+			);
+			path = contactList;
+			sourceTree = "<group>";
+		};
+		4BE4992822901987004C8DB2 /* PinYin4Objc */ = {
+			isa = PBXGroup;
+			children = (
+				4BE4992922901987004C8DB2 /* Classes */,
+				4BE4993522901987004C8DB2 /* Resources */,
+			);
+			path = PinYin4Objc;
+			sourceTree = "<group>";
+		};
+		4BE4992922901987004C8DB2 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				4BE4992A22901987004C8DB2 /* PinyinHelper.h */,
+				4BE4992B22901987004C8DB2 /* HanyuPinyinOutputFormat.h */,
+				4BE4992C22901987004C8DB2 /* NSString+PinYin4Cocoa.m */,
+				4BE4992D22901987004C8DB2 /* ChineseToPinyinResource.h */,
+				4BE4992E22901987004C8DB2 /* PinyinFormatter.h */,
+				4BE4992F22901987004C8DB2 /* PinyinHelper.m */,
+				4BE4993022901987004C8DB2 /* NSString+PinYin4Cocoa.h */,
+				4BE4993122901987004C8DB2 /* HanyuPinyinOutputFormat.m */,
+				4BE4993222901987004C8DB2 /* ChineseToPinyinResource.m */,
+				4BE4993322901987004C8DB2 /* PinyinFormatter.m */,
+				4BE4993422901987004C8DB2 /* PinYin4Objc.h */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		4BE4993522901987004C8DB2 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4BE4993622901987004C8DB2 /* unicode_to_hanyu_pinyin.txt */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		4BE4993D22916DE3004C8DB2 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				4BE499C52291AF84004C8DB2 /* TuringTest */,
+				4BE4993E22916DE3004C8DB2 /* ChatroomViewController.h */,
+				4BE4994022916DE3004C8DB2 /* ChatroomViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		4BE4994222916DE3004C8DB2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				4BE4994322916DE3004C8DB2 /* Messages+CoreDataProperties.h */,
+				4BE4994422916DE3004C8DB2 /* Messages.h */,
+				4BE4994522916DE3004C8DB2 /* Messages+CoreDataProperties.m */,
+				4BE4994622916DE3004C8DB2 /* Messages.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		4BE4994722916DE3004C8DB2 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				4BE499C22291AF23004C8DB2 /* InsetsTextField.h */,
+				4BE499C32291AF23004C8DB2 /* InsetsTextField.m */,
+				4BE4995722916E46004C8DB2 /* DateUtil.h */,
+				4BE4995822916E46004C8DB2 /* DateUtil.m */,
+				4BE4994822916DE3004C8DB2 /* TextMessageTableViewCell.h */,
+				4BE4994922916DE3004C8DB2 /* EditorView.xib */,
+				4BE4994A22916DE3004C8DB2 /* BaseMessageTableViewCell.m */,
+				4BE4994B22916DE3004C8DB2 /* EditorView.m */,
+				4BE4994C22916DE3004C8DB2 /* TextMessageTableViewCell.m */,
+				4BE4994D22916DE3004C8DB2 /* BaseMessageTableViewCell.h */,
+				4BE4994E22916DE3004C8DB2 /* EditorView.h */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		4BE499972291A450004C8DB2 /* DataBase */ = {
+			isa = PBXGroup;
+			children = (
+				4BE499A22291A4D8004C8DB2 /* WeChat.xcdatamodeld */,
+				4BE499992291A499004C8DB2 /* DataBaseManager */,
+				4BE499982291A48E004C8DB2 /* IQDataBaseManager */,
+			);
+			path = DataBase;
+			sourceTree = "<group>";
+		};
+		4BE499982291A48E004C8DB2 /* IQDataBaseManager */ = {
+			isa = PBXGroup;
+			children = (
+				4BE4999A2291A4B7004C8DB2 /* IQDatabaseManager.h */,
+				4BE4999B2291A4B7004C8DB2 /* IQDatabaseManager.m */,
+				4BE4999C2291A4B7004C8DB2 /* IQDatabaseManagerSubclass.h */,
+			);
+			path = IQDataBaseManager;
+			sourceTree = "<group>";
+		};
+		4BE499992291A499004C8DB2 /* DataBaseManager */ = {
+			isa = PBXGroup;
+			children = (
+				4BE499A02291A4D0004C8DB2 /* WeChat.h */,
+				4BE4999E2291A4D0004C8DB2 /* WeChat.m */,
+				4BE4999F2291A4D0004C8DB2 /* WechatConstants.h */,
+			);
+			path = DataBaseManager;
+			sourceTree = "<group>";
+		};
+		4BE499C52291AF84004C8DB2 /* TuringTest */ = {
+			isa = PBXGroup;
+			children = (
+				4BE499C92291AFB3004C8DB2 /* header */,
+				4BE499C62291AF91004C8DB2 /* ThirdParty */,
+			);
+			path = TuringTest;
+			sourceTree = "<group>";
+		};
+		4BE499C62291AF91004C8DB2 /* ThirdParty */ = {
+			isa = PBXGroup;
+			children = (
+				4BE499DF2291B003004C8DB2 /* OpenUDID */,
+				4BE499D42291AFDC004C8DB2 /* CoreAudioUtility */,
+				4BE499D02291AFCE004C8DB2 /* JSONKit-master */,
+			);
+			path = ThirdParty;
+			sourceTree = "<group>";
+		};
+		4BE499C92291AFB3004C8DB2 /* header */ = {
+			isa = PBXGroup;
+			children = (
+				4BE499CA2291AFB3004C8DB2 /* BDVoiceRecognitionClient.h */,
+				4BE499CB2291AFB3004C8DB2 /* TRRTuringAPI.h */,
+				4BE499CC2291AFB3004C8DB2 /* TRRTuringAPIConfig.h */,
+				4BE499CD2291AFB3004C8DB2 /* TRRVoiceRecognitionManager.h */,
+				4BE499CE2291AFB3004C8DB2 /* TRRSpeechSythesizer.h */,
+				4BE499CF2291AFB3004C8DB2 /* TRRTuringRequestManager.h */,
+			);
+			path = header;
+			sourceTree = "<group>";
+		};
+		4BE499D02291AFCE004C8DB2 /* JSONKit-master */ = {
+			isa = PBXGroup;
+			children = (
+				4BE499D12291AFCE004C8DB2 /* JSONKit.m */,
+				4BE499D22291AFCE004C8DB2 /* JSONKit.h */,
+			);
+			path = "JSONKit-master";
+			sourceTree = "<group>";
+		};
+		4BE499D42291AFDC004C8DB2 /* CoreAudioUtility */ = {
+			isa = PBXGroup;
+			children = (
+				4BE499D52291AFDC004C8DB2 /* CAStreamBasicDescription.h */,
+				4BE499D62291AFDC004C8DB2 /* CADebugMacros.cpp */,
+				4BE499D72291AFDC004C8DB2 /* CAXException.cpp */,
+				4BE499D82291AFDC004C8DB2 /* CAXException.h */,
+				4BE499D92291AFDC004C8DB2 /* CADebugMacros.h */,
+				4BE499DA2291AFDC004C8DB2 /* CAStreamBasicDescription.cpp */,
+				4BE499DB2291AFDC004C8DB2 /* CAMath.h */,
+			);
+			path = CoreAudioUtility;
+			sourceTree = "<group>";
+		};
+		4BE499DF2291B003004C8DB2 /* OpenUDID */ = {
+			isa = PBXGroup;
+			children = (
+				4BE499E02291B003004C8DB2 /* OpenUDID.m */,
+				4BE499E12291B003004C8DB2 /* OpenUDID.h */,
+			);
+			path = OpenUDID;
+			sourceTree = "<group>";
+		};
+		F2F190A07EBD0C93BF80100B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4BE49A0A2291CAE4004C8DB2 /* CoreLocation.framework */,
+				4BE49A082291CADF004C8DB2 /* CFNetwork.framework */,
+				4BE49A062291CAD9004C8DB2 /* Security.framework */,
+				4BE49A042291CACE004C8DB2 /* OpenGLES.framework */,
+				4BE49A022291CAC8004C8DB2 /* GLKit.framework */,
+				4BE49A002291CAC2004C8DB2 /* AVFoundation.framework */,
+				4BE499FE2291CAB7004C8DB2 /* Foundation.framework */,
+				4BE499FC2291CA9B004C8DB2 /* SystemConfiguration.framework */,
+				4BE499F62291BA14004C8DB2 /* libz.1.dylib */,
+				4BE499F22291B8DE004C8DB2 /* libTuringSDK.a */,
+				9FDFA51A727022F029B5E202 /* libPods-WeChat-ZK.a */,
+				44689CEF4E228AC7D81E1308 /* libPods-WeChat-ZKTests.a */,
+				6844462EDB4F6F5375E9126F /* libPods-WeChat-ZKUITests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		24A29042228F005200667B07 /* WeChat-ZK */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24A2906F228F005300667B07 /* Build configuration list for PBXNativeTarget "WeChat-ZK" */;
+			buildPhases = (
+				75D84BB068499113DCFACADB /* [CP] Check Pods Manifest.lock */,
+				24A2903F228F005200667B07 /* Sources */,
+				24A29040228F005200667B07 /* Frameworks */,
+				247C419C22908D55003021A7 /* Resources */,
+				408FB270F4E84D9926570CCC /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "WeChat-ZK";
+			productName = TabBar;
+			productReference = 24A29043228F005200667B07 /* WeChat-ZK.app */;
+			productType = "com.apple.product-type.application";
+		};
+		24A2905A228F005300667B07 /* WeChat-ZKTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24A29072228F005300667B07 /* Build configuration list for PBXNativeTarget "WeChat-ZKTests" */;
+			buildPhases = (
+				56B5A8C23C8D683CCE5A2C67 /* [CP] Check Pods Manifest.lock */,
+				24A29057228F005300667B07 /* Sources */,
+				24A29058228F005300667B07 /* Frameworks */,
+				24A29059228F005300667B07 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				24A2905D228F005300667B07 /* PBXTargetDependency */,
+			);
+			name = "WeChat-ZKTests";
+			productName = TabBarTests;
+			productReference = 24A2905B228F005300667B07 /* WeChat-ZKTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		24A29065228F005300667B07 /* WeChat-ZKUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24A29075228F005300667B07 /* Build configuration list for PBXNativeTarget "WeChat-ZKUITests" */;
+			buildPhases = (
+				3079E3B63847F89D172C6925 /* [CP] Check Pods Manifest.lock */,
+				24A29062228F005300667B07 /* Sources */,
+				24A29063228F005300667B07 /* Frameworks */,
+				24A29064228F005300667B07 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				24A29068228F005300667B07 /* PBXTargetDependency */,
+			);
+			name = "WeChat-ZKUITests";
+			productName = TabBarUITests;
+			productReference = 24A29066228F005300667B07 /* WeChat-ZKUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		24A2903B228F005200667B07 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1020;
+				ORGANIZATIONNAME = DrogoKhal;
+				TargetAttributes = {
+					24A29042228F005200667B07 = {
+						CreatedOnToolsVersion = 10.2;
+					};
+					24A2905A228F005300667B07 = {
+						CreatedOnToolsVersion = 10.2;
+						TestTargetID = 24A29042228F005200667B07;
+					};
+					24A29065228F005300667B07 = {
+						CreatedOnToolsVersion = 10.2;
+						TestTargetID = 24A29042228F005200667B07;
+					};
+				};
+			};
+			buildConfigurationList = 24A2903E228F005200667B07 /* Build configuration list for PBXProject "WeChat-ZK" */;
+			compatibilityVersion = "Xcode 10.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 24A2903A228F005200667B07;
+			productRefGroup = 24A29044228F005200667B07 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				24A29042228F005200667B07 /* WeChat-ZK */,
+				24A2905A228F005300667B07 /* WeChat-ZKTests */,
+				24A29065228F005300667B07 /* WeChat-ZKUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		247C419C22908D55003021A7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				247C41E622908DE0003021A7 /* contact_list.plist in Resources */,
+				247C41E722908DE0003021A7 /* chat_list.plist in Resources */,
+				247C419F22908DB1003021A7 /* Contacts.xcassets in Resources */,
+				247C41A022908DB1003021A7 /* jf-1.jpg in Resources */,
+				247C41A122908DB1003021A7 /* jf-3.jpg in Resources */,
+				247C41A222908DB1003021A7 /* jf-2.jpg in Resources */,
+				247C41A322908DB1003021A7 /* yunmo.jpg in Resources */,
+				247C41A422908DB1003021A7 /* jf-6.jpg in Resources */,
+				247C41A522908DB1003021A7 /* jf-7.jpg in Resources */,
+				247C41A622908DB1003021A7 /* fanguang-1.jpg in Resources */,
+				247C41A722908DB1003021A7 /* fanguang-3.jpg in Resources */,
+				247C41A822908DB1003021A7 /* jf-5.jpg in Resources */,
+				247C41A922908DB1003021A7 /* jf-4.jpg in Resources */,
+				247C41AA22908DB1003021A7 /* fanguang-2.jpg in Resources */,
+				247C41AB22908DB1003021A7 /* laosiji.jpg in Resources */,
+				247C41AC22908DB1003021A7 /* miyan-4.jpg in Resources */,
+				247C41AD22908DB1003021A7 /* miyan-5.jpg in Resources */,
+				247C41AE22908DB1003021A7 /* hualaishi-1.jpg in Resources */,
+				247C41AF22908DB1003021A7 /* miyan-6.jpg in Resources */,
+				247C41B022908DB1003021A7 /* hualaishi-2.jpg in Resources */,
+				247C41B122908DB1003021A7 /* miyan-2.jpg in Resources */,
+				247C41B222908DB1003021A7 /* miyan-3.jpg in Resources */,
+				247C41B322908DB1003021A7 /* miyan-1.jpg in Resources */,
+				247C41B422908DB1003021A7 /* jingdizhiwa.jpg in Resources */,
+				247C41B522908DB1003021A7 /* test4.jpg in Resources */,
+				247C41B622908DB1003021A7 /* test0.jpg in Resources */,
+				247C41B722908DB1003021A7 /* test1.jpg in Resources */,
+				247C41B822908DB1003021A7 /* test3.jpg in Resources */,
+				247C41B922908DB1003021A7 /* test2.jpg in Resources */,
+				4BE4995322916DE3004C8DB2 /* EditorView.xib in Resources */,
+				247C41BA22908DB1003021A7 /* Me.xcassets in Resources */,
+				247C41BB22908DB1003021A7 /* picon.jpg in Resources */,
+				247C41BC22908DB1003021A7 /* pic8.jpg in Resources */,
+				247C41BD22908DB1003021A7 /* pic0.jpg in Resources */,
+				247C41BE22908DB1003021A7 /* pic1.jpg in Resources */,
+				247C41BF22908DB1003021A7 /* pic3.jpg in Resources */,
+				247C41C022908DB1003021A7 /* pbg.jpg in Resources */,
+				247C41C122908DB1003021A7 /* pic2.jpg in Resources */,
+				247C41C222908DB1003021A7 /* pic6.jpg in Resources */,
+				247C41C322908DB1003021A7 /* pic7.jpg in Resources */,
+				247C41C422908DB1003021A7 /* pic5.jpg in Resources */,
+				247C41C522908DB1003021A7 /* pic4.jpg in Resources */,
+				247C41C622908DB1003021A7 /* Home.xcassets in Resources */,
+				247C41C722908DB1003021A7 /* 8.jpg in Resources */,
+				247C41C822908DB1003021A7 /* 9.jpg in Resources */,
+				247C41C922908DB1003021A7 /* 14.jpg in Resources */,
+				247C41CA22908DB1003021A7 /* 28.jpg in Resources */,
+				247C41CB22908DB1003021A7 /* 15.jpg in Resources */,
+				247C41CC22908DB1003021A7 /* 17.jpg in Resources */,
+				247C41CD22908DB1003021A7 /* 16.jpg in Resources */,
+				247C41CE22908DB1003021A7 /* 12.jpg in Resources */,
+				247C41CF22908DB1003021A7 /* 13.jpg in Resources */,
+				247C41D022908DB1003021A7 /* 11.jpg in Resources */,
+				247C41D122908DB1003021A7 /* 10.jpg in Resources */,
+				247C41D222908DB1003021A7 /* 21.jpg in Resources */,
+				247C41D322908DB1003021A7 /* 20.jpg in Resources */,
+				247C41D422908DB1003021A7 /* 22.jpg in Resources */,
+				247C41D522908DB1003021A7 /* 23.jpg in Resources */,
+				247C41D622908DB1003021A7 /* 27.jpg in Resources */,
+				247C41D722908DB1003021A7 /* 26.jpg in Resources */,
+				247C41D822908DB1003021A7 /* 18.jpg in Resources */,
+				247C41D922908DB1003021A7 /* 24.jpg in Resources */,
+				247C41DA22908DB1003021A7 /* 25.jpg in Resources */,
+				247C41DB22908DB1003021A7 /* 19.jpg in Resources */,
+				247C41DC22908DB1003021A7 /* 4.jpg in Resources */,
+				247C41DD22908DB1003021A7 /* 5.jpg in Resources */,
+				247C41DE22908DB1003021A7 /* 7.jpg in Resources */,
+				247C41DF22908DB1003021A7 /* 6.jpg in Resources */,
+				247C41E022908DB1003021A7 /* 2.jpg in Resources */,
+				247C41E122908DB1003021A7 /* 3.jpg in Resources */,
+				247C41E222908DB1003021A7 /* 1.jpg in Resources */,
+				247C41E322908DB1003021A7 /* 0.jpg in Resources */,
+				247C41E422908DB1003021A7 /* Discover.xcassets in Resources */,
+				247C41E522908DB1003021A7 /* Images.xcassets in Resources */,
+				247C419E22908D97003021A7 /* Assets.xcassets in Resources */,
+				247C419D22908D6E003021A7 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A29059228F005300667B07 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A29064228F005300667B07 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3079E3B63847F89D172C6925 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-WeChat-ZKUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		408FB270F4E84D9926570CCC /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-WeChat-ZK/Pods-WeChat-ZK-resources.sh",
+				"${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MJRefresh.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-WeChat-ZK/Pods-WeChat-ZK-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		56B5A8C23C8D683CCE5A2C67 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-WeChat-ZKTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		75D84BB068499113DCFACADB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-WeChat-ZK-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		24A2903F228F005200667B07 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4BE4993822901987004C8DB2 /* PinyinHelper.m in Sources */,
+				4BE499A12291A4D0004C8DB2 /* WeChat.m in Sources */,
+				4BE4995522916DE3004C8DB2 /* EditorView.m in Sources */,
+				4BE499A42291A4D8004C8DB2 /* WeChat.xcdatamodeld in Sources */,
+				248C533122906FE90084DC96 /* DiscoverViewController.m in Sources */,
+				24A2911A228F2FE000667B07 /* Chat.m in Sources */,
+				4BE499D32291AFCE004C8DB2 /* JSONKit.m in Sources */,
+				24A2913F228F564800667B07 /* ContactTableViewController.m in Sources */,
+				24A2904B228F005200667B07 /* ViewController.m in Sources */,
+				248C52492290630F0084DC96 /* Moment.m in Sources */,
+				4BE499DC2291AFDC004C8DB2 /* CADebugMacros.cpp in Sources */,
+				4BE4993922901987004C8DB2 /* HanyuPinyinOutputFormat.m in Sources */,
+				4BE4995422916DE3004C8DB2 /* BaseMessageTableViewCell.m in Sources */,
+				4BE49915228FD907004C8DB2 /* ContactListCellTableViewCell.m in Sources */,
+				24A2913A228F41B700667B07 /* ChatViewController.m in Sources */,
+				4BE4993722901987004C8DB2 /* NSString+PinYin4Cocoa.m in Sources */,
+				24A29115228F2F7E00667B07 /* ChatListCell.m in Sources */,
+				4BE499C42291AF23004C8DB2 /* InsetsTextField.m in Sources */,
+				24A29056228F005300667B07 /* main.m in Sources */,
+				4BE4995222916DE3004C8DB2 /* Messages.m in Sources */,
+				4BE4999D2291A4B7004C8DB2 /* IQDatabaseManager.m in Sources */,
+				4BE499E22291B003004C8DB2 /* OpenUDID.m in Sources */,
+				4BE4993B22901987004C8DB2 /* PinyinFormatter.m in Sources */,
+				4BE4995922916E46004C8DB2 /* DateUtil.m in Sources */,
+				248C53392290783E0084DC96 /* MyInfoCell.m in Sources */,
+				248C53352290776A0084DC96 /* MeViewController.m in Sources */,
+				4BE4995122916DE3004C8DB2 /* Messages+CoreDataProperties.m in Sources */,
+				4BE4995622916DE3004C8DB2 /* TextMessageTableViewCell.m in Sources */,
+				4BE49912228FD8DB004C8DB2 /* Contact.m in Sources */,
+				24A29048228F005200667B07 /* AppDelegate.m in Sources */,
+				4BE4991D22901640004C8DB2 /* NSArray+SortContact.m in Sources */,
+				4BE499DD2291AFDC004C8DB2 /* CAXException.cpp in Sources */,
+				4BE4995022916DE3004C8DB2 /* ChatroomViewController.m in Sources */,
+				4BE4993A22901987004C8DB2 /* ChineseToPinyinResource.m in Sources */,
+				248C524A2290630F0084DC96 /* Comment.m in Sources */,
+				4BE499DE2291AFDC004C8DB2 /* CAStreamBasicDescription.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A29057228F005300667B07 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24A29060228F005300667B07 /* TabBarTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A29062228F005300667B07 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24A2906B228F005300667B07 /* TabBarUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		24A2905D228F005300667B07 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 24A29042228F005200667B07 /* WeChat-ZK */;
+			targetProxy = 24A2905C228F005300667B07 /* PBXContainerItemProxy */;
+		};
+		24A29068228F005300667B07 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 24A29042228F005200667B07 /* WeChat-ZK */;
+			targetProxy = 24A29067228F005300667B07 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		24A2904C228F005200667B07 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24A2904D228F005200667B07 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		24A29051228F005300667B07 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24A29052228F005300667B07 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		24A2906D228F005300667B07 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		24A2906E228F005300667B07 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		24A29070228F005300667B07 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 171E84219ABE69EAC51F3708 /* Pods-WeChat-ZK.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N57BR2QF46;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = TabBar/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-l\"DACircularProgress\"",
+					"-l\"MJRefresh\"",
+					"-l\"Masonry\"",
+					"-l\"SDAutoLayout\"",
+					"-l\"SDWebImage\"",
+					"-l\"TTTAttributedLabel\"",
+					"-l\"UITableView+FDTemplateLayoutCell\"",
+					"-framework",
+					"\"CoreGraphics\"",
+					"-framework",
+					"\"CoreText\"",
+					"-framework",
+					"\"Foundation\"",
+					"-framework",
+					"\"ImageIO\"",
+					"-framework",
+					"\"QuartzCore\"",
+					"-framework",
+					"\"UIKit\"",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = cn.zucc.edu.TabBar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				USER_HEADER_SEARCH_PATHS = "${SRCROOT}/Pods/**";
+			};
+			name = Debug;
+		};
+		24A29071228F005300667B07 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2FBD42BAE98A185C1AC9A594 /* Pods-WeChat-ZK.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N57BR2QF46;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = TabBar/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-l\"DACircularProgress\"",
+					"-l\"MJRefresh\"",
+					"-l\"Masonry\"",
+					"-l\"SDAutoLayout\"",
+					"-l\"SDWebImage\"",
+					"-l\"TTTAttributedLabel\"",
+					"-l\"UITableView+FDTemplateLayoutCell\"",
+					"-framework",
+					"\"CoreGraphics\"",
+					"-framework",
+					"\"CoreText\"",
+					"-framework",
+					"\"Foundation\"",
+					"-framework",
+					"\"ImageIO\"",
+					"-framework",
+					"\"QuartzCore\"",
+					"-framework",
+					"\"UIKit\"",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = cn.zucc.edu.TabBar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				USER_HEADER_SEARCH_PATHS = "${SRCROOT}/Pods/**";
+			};
+			name = Release;
+		};
+		24A29073228F005300667B07 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BA7133E5591904D1DAD838A5 /* Pods-WeChat-ZKTests.debug.xcconfig */;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N57BR2QF46;
+				INFOPLIST_FILE = TabBarTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = cn.zucc.edu.TabBarTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WeChat-ZK.app/WeChat-ZK";
+			};
+			name = Debug;
+		};
+		24A29074228F005300667B07 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 515A249D82EF9A9BD3172A95 /* Pods-WeChat-ZKTests.release.xcconfig */;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N57BR2QF46;
+				INFOPLIST_FILE = TabBarTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = cn.zucc.edu.TabBarTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WeChat-ZK.app/WeChat-ZK";
+			};
+			name = Release;
+		};
+		24A29076228F005300667B07 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 95A5D5ECACB59EA69FB2ED76 /* Pods-WeChat-ZKUITests.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N57BR2QF46;
+				INFOPLIST_FILE = TabBarUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = cn.zucc.edu.TabBarUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TabBar;
+			};
+			name = Debug;
+		};
+		24A29077228F005300667B07 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 735535764BC4E0607673CEBD /* Pods-WeChat-ZKUITests.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N57BR2QF46;
+				INFOPLIST_FILE = TabBarUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = cn.zucc.edu.TabBarUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TabBar;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		24A2903E228F005200667B07 /* Build configuration list for PBXProject "WeChat-ZK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24A2906D228F005300667B07 /* Debug */,
+				24A2906E228F005300667B07 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24A2906F228F005300667B07 /* Build configuration list for PBXNativeTarget "WeChat-ZK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24A29070228F005300667B07 /* Debug */,
+				24A29071228F005300667B07 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24A29072228F005300667B07 /* Build configuration list for PBXNativeTarget "WeChat-ZKTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24A29073228F005300667B07 /* Debug */,
+				24A29074228F005300667B07 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24A29075228F005300667B07 /* Build configuration list for PBXNativeTarget "WeChat-ZKUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24A29076228F005300667B07 /* Debug */,
+				24A29077228F005300667B07 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		4BE499A22291A4D8004C8DB2 /* WeChat.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				4BE499A32291A4D8004C8DB2 /* WeChat.xcdatamodel */,
+			);
+			currentVersion = 4BE499A32291A4D8004C8DB2 /* WeChat.xcdatamodel */;
+			path = WeChat.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 24A2903B228F005200667B07 /* Project object */;
+}

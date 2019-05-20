@@ -1,0 +1,42 @@
+PODS:
+  - DACircularProgress (2.3.1)
+  - Masonry (1.1.0)
+  - MJRefresh (3.2.0)
+  - SDAutoLayout (2.2.1)
+  - SDWebImage (5.0.3):
+    - SDWebImage/Core (= 5.0.3)
+  - SDWebImage/Core (5.0.3)
+  - TTTAttributedLabel (2.0.0)
+  - "UITableView+FDTemplateLayoutCell (1.6)"
+
+DEPENDENCIES:
+  - DACircularProgress
+  - Masonry
+  - MJRefresh
+  - SDAutoLayout
+  - SDWebImage
+  - TTTAttributedLabel
+  - "UITableView+FDTemplateLayoutCell"
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DACircularProgress
+    - Masonry
+    - MJRefresh
+    - SDAutoLayout
+    - SDWebImage
+    - TTTAttributedLabel
+    - "UITableView+FDTemplateLayoutCell"
+
+SPEC CHECKSUMS:
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  SDAutoLayout: 8bf6b3bbc8b01f775d4defbb4fda2ace805461be
+  SDWebImage: d4f87d7d36c8a4d9f9459dc282e0caa057fdf935
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+  "UITableView+FDTemplateLayoutCell": 5c949b4a5059c404b442926c0e80f81d10a2d66f
+
+PODFILE CHECKSUM: 33c3f8dc7764b639ddd0f7baaeab99acf4cffdd5
+
+COCOAPODS: 1.6.2

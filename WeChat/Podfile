@@ -1,0 +1,27 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'WeChat-ZK' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for WeChat-ZK
+  pod 'MJRefresh'
+  pod 'Masonry'
+  pod 'SDWebImage'
+  pod 'TTTAttributedLabel'
+  pod 'SDAutoLayout'
+  pod 'UITableView+FDTemplateLayoutCell'
+  # pod 'IDMPhotoBrowser'
+  pod 'DACircularProgress'
+  target 'WeChat-ZKTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'WeChat-ZKUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

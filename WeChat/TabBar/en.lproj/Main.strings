@@ -1,0 +1,129 @@
+
+/* Class = "UINavigationItem"; title = "微信"; ObjectID = "1dX-IY-rIM"; */
+"1dX-IY-rIM.title" = "微信";
+
+/* Class = "UITabBarItem"; title = "微信"; ObjectID = "2og-5I-p9z"; */
+"2og-5I-p9z.title" = "微信";
+
+/* Class = "UILabel"; text = "附近的人"; ObjectID = "7Pj-Vh-S2p"; */
+"7Pj-Vh-S2p.text" = "附近的人";
+
+/* Class = "UILabel"; text = "扫一扫"; ObjectID = "A1E-Uh-g1q"; */
+"A1E-Uh-g1q.text" = "扫一扫";
+
+/* Class = "UILabel"; text = "功能介绍"; ObjectID = "AFv-0a-LXb"; */
+"AFv-0a-LXb.text" = "功能介绍";
+
+/* Class = "UILabel"; text = "Khal"; ObjectID = "AuG-tJ-GEN"; */
+"AuG-tJ-GEN.text" = "Khal";
+
+/* Class = "UILabel"; text = "版本更新"; ObjectID = "Axt-2c-D5n"; */
+"Axt-2c-D5n.text" = "版本更新";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Bgu-BD-QPw"; */
+"Bgu-BD-QPw.text" = "Label";
+
+/* Class = "UILabel"; text = "表情"; ObjectID = "DuI-cm-e3m"; */
+"DuI-cm-e3m.text" = "表情";
+
+/* Class = "UILabel"; text = "摇一摇"; ObjectID = "ElU-5B-SNn"; */
+"ElU-5B-SNn.text" = "摇一摇";
+
+/* Class = "UISearchBar"; placeholder = "搜索"; ObjectID = "F6l-ZN-klF"; */
+"F6l-ZN-klF.placeholder" = "搜索";
+
+/* Class = "UILabel"; text = "扫一扫"; ObjectID = "FTf-d5-yFq"; */
+"FTf-d5-yFq.text" = "扫一扫";
+
+/* Class = "UITabBarItem"; title = "发现"; ObjectID = "Fxf-ox-Avm"; */
+"Fxf-ox-Avm.title" = "发现";
+
+/* Class = "UILabel"; text = "购物"; ObjectID = "HMs-eg-ItW"; */
+"HMs-eg-ItW.text" = "购物";
+
+/* Class = "UILabel"; text = "游戏"; ObjectID = "Hwn-Bc-XiO"; */
+"Hwn-Bc-XiO.text" = "游戏";
+
+/* Class = "UILabel"; text = "微信号: personal_wechat"; ObjectID = "QKM-nG-1zg"; */
+"QKM-nG-1zg.text" = "微信号: personal_wechat";
+
+/* Class = "UILabel"; text = "可能认识的人"; ObjectID = "RLs-gM-P8P"; */
+"RLs-gM-P8P.text" = "可能认识的人";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SlD-Xb-DI6"; */
+"SlD-Xb-DI6.text" = "Label";
+
+/* Class = "UILabel"; text = "投诉"; ObjectID = "TK3-1N-tzR"; */
+"TK3-1N-tzR.text" = "投诉";
+
+/* Class = "UILabel"; text = "添加好友"; ObjectID = "Vpm-em-5jv"; */
+"Vpm-em-5jv.text" = "添加好友";
+
+/* Class = "UILabel"; text = "去评分"; ObjectID = "Wob-0p-98x"; */
+"Wob-0p-98x.text" = "去评分";
+
+/* Class = "UILabel"; text = "收藏"; ObjectID = "a2i-AI-O8a"; */
+"a2i-AI-O8a.text" = "收藏";
+
+/* Class = "UILabel"; text = "添加生活服务"; ObjectID = "b3o-26-qxq"; */
+"b3o-26-qxq.text" = "添加生活服务";
+
+/* Class = "UINavigationItem"; title = "通讯录"; ObjectID = "b5M-LN-ut4"; */
+"b5M-LN-ut4.title" = "通讯录";
+
+/* Class = "UITabBarItem"; title = "我"; ObjectID = "bii-Gy-msI"; */
+"bii-Gy-msI.title" = "我";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bkz-Hq-Cio"; */
+"bkz-Hq-Cio.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "添加朋友"; ObjectID = "dW2-6t-NsQ"; */
+"dW2-6t-NsQ.title" = "添加朋友";
+
+/* Class = "UILabel"; text = "微信 WeChat"; ObjectID = "dbh-y6-Jyp"; */
+"dbh-y6-Jyp.text" = "微信 WeChat";
+
+/* Class = "UITabBarItem"; title = "通讯录"; ObjectID = "fST-ru-1ZB"; */
+"fST-ru-1ZB.title" = "通讯录";
+
+/* Class = "UILabel"; text = "创建群"; ObjectID = "i9d-oA-Z8D"; */
+"i9d-oA-Z8D.text" = "创建群";
+
+/* Class = "UILabel"; text = "Version 7.0.3"; ObjectID = "iBk-v4-iPZ"; */
+"iBk-v4-iPZ.text" = "Version 7.0.3";
+
+/* Class = "UILabel"; text = "加入群"; ObjectID = "kWE-a3-E0O"; */
+"kWE-a3-E0O.text" = "加入群";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kfN-pw-Lq0"; */
+"kfN-pw-Lq0.text" = "Label";
+
+/* Class = "UILabel"; text = "相册"; ObjectID = "l00-qy-uWb"; */
+"l00-qy-uWb.text" = "相册";
+
+/* Class = "UINavigationItem"; title = "发现"; ObjectID = "l3i-lQ-hAN"; */
+"l3i-lQ-hAN.title" = "发现";
+
+/* Class = "UINavigationItem"; title = "关于微信"; ObjectID = "mAR-au-Fb8"; */
+"mAR-au-Fb8.title" = "关于微信";
+
+/* Class = "UILabel"; text = "卡包"; ObjectID = "o2n-wW-2H3"; */
+"o2n-wW-2H3.text" = "卡包";
+
+/* Class = "UISearchBar"; placeholder = "搜索"; ObjectID = "rqS-P9-o7V"; */
+"rqS-P9-o7V.placeholder" = "搜索";
+
+/* Class = "UILabel"; text = "关于微信"; ObjectID = "rzx-oT-Cvz"; */
+"rzx-oT-Cvz.text" = "关于微信";
+
+/* Class = "UILabel"; text = "钱包"; ObjectID = "uVy-BQ-BeT"; */
+"uVy-BQ-BeT.text" = "钱包";
+
+/* Class = "UINavigationItem"; title = "我"; ObjectID = "xbA-Ac-bIA"; */
+"xbA-Ac-bIA.title" = "我";
+
+/* Class = "UILabel"; text = "朋友圈"; ObjectID = "yS4-0z-ahw"; */
+"yS4-0z-ahw.text" = "朋友圈";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "yiQ-AF-wCo"; */
+"yiQ-AF-wCo.title" = "Item";
