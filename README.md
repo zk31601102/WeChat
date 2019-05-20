@@ -56,6 +56,4 @@
 </center>
 
 ### Main.Storyboard
-<center>
-<img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/storyboard.jpg" width="30%" height="30%" />
-</center>
+![Main.Storyboard](https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/storyboard.jpg)
