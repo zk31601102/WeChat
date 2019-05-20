@@ -1,6 +1,5 @@
 # WeChat 
 
->- 使用Objective-C实现
 >- 实现了微信的主界面
 >- 通讯录进行了汉语拼音排序
 >- 调用[图灵机器人](http://www.tuling123.com/help/h_cent_iossdk.jhtml?nav=doc)来实现聊天
@@ -22,23 +21,42 @@ chatList
 <img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/contact1.PNG" width="30%" height="30%" />           <img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/contact2.PNG" width="30%" height="30%" />
 contacts
 </center>
+
 ##### 添加好友
 
-![addFriend](https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/addFriend.PNG)
+<center>
+<img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/addFriend.PNG" width="30%" height="30%" />
+addFriend
+</center>
 
 #### 发现
-![discover](https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/discover.PNG)
+<center>
+<img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/discover.PNG" width="30%" height="30%" />
+discover
+</center>
 
 #### 我
 ##### 我
-![me](https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/me.PNG)
+
+<center>
+<img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/me.PNG" width="30%" height="30%" />
+me
+</center>
 
 ##### 关于微信
-![aboutWeChat](https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/aboutWeChat.PNG)
+<center>
+<img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/aboutWeChat.PNG" width="30%" height="30%" />
+aboutWeChat
+</center>
 
+### 图灵机器人聊天
+<center>
+<img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/Turing.PNG" width="30%" height="30%" />
+TuringChat
+</center>
 
-### 图灵机器人
-
-
-### 聊天记录
-
+### Main.Storyboard
+<center>
+<img src="https://github.com/zk31601102/drogozhang.github.io/raw/master/School/iOS/storyboard.jpg" width="30%" height="30%" />
+StoryBoard
+</center>
